@@ -38,23 +38,30 @@ This AI-powered chatbot is designed to provide intelligent, human-like responses
 
 ---
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
 Installation & Setup
 
 Clone the repository
 
-git clone https://github.com/VISHAL-KADIAN/AI-Chatbot-with-Sentiment-Analysis-and-Voice-Recognition.git
-cd ai-chatbot
+git clone [cmake](https://github.com/VISHAL-KADIAN/AI-Chatbot-with-Sentiment-Analysis-and-Voice-Recognition.git
+cd ai-chatbot)
 
 Install dependencies
 
+```
 pip install -r requirements.txt
+```
 
 Run the chatbot
 
+```
 python app.py
+```
 
 Launch the Streamlit UI (if applicable)
 
+```
 streamlit run app.py
-
+```
 
