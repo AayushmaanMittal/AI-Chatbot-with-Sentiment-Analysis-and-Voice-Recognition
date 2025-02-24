@@ -1,12 +1,12 @@
 # AI-Chatbot-with-Sentiment-Analysis-and-Voice-Recognition
 
-##Overview##
+## Overview ##
 
 ---
 
 This AI-powered chatbot is designed to provide intelligent, human-like responses while analyzing user sentiment. It leverages Natural Language Processing (NLP) and Sentiment Analysis to enhance engagement and inclusivity. Additionally, the chatbot supports speech-to-text functionality for seamless voice-based interaction.
 
-##Features##
+## Features ##
 
 ---
 
@@ -23,7 +23,8 @@ This AI-powered chatbot is designed to provide intelligent, human-like responses
 6.Streamlit UI: A user-friendly web interface for interaction.
 
 
-##Built With##
+## Built With ##
+
 ---
 
 1. Sentiment Analysis – Detects and responds based on user emotions.
@@ -33,7 +34,7 @@ This AI-powered chatbot is designed to provide intelligent, human-like responses
 5. Conversational AI – Trained on large datasets for accuracy.
 6. Streamlit UI – A visually appealing, interactive web interface.
 
-##Running The Application##
+## Running The Application ##
 
 ---
 
