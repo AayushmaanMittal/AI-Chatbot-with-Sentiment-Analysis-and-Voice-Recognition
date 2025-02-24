@@ -44,8 +44,8 @@ Installation & Setup
 
 Clone the repository
 
-git clone [cmake](https://github.com/VISHAL-KADIAN/AI-Chatbot-with-Sentiment-Analysis-and-Voice-Recognition.git
-cd ai-chatbot)
+git clone https://github.com/VISHAL-KADIAN/AI-Chatbot-with-Sentiment-Analysis-and-Voice-Recognition.git
+cd ai-chatbot
 
 Install dependencies
 
